@@ -1,0 +1,11 @@
+div[disabled] { color: red; }
+
+.d-f {
+    display: flex;
+}
+
+.perfect-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
